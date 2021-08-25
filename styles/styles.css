@@ -33,3 +33,15 @@ footer {
     background-color: #FAF0EA;
     padding: 10px;
 }
+
+.animals {
+    display: flex;
+    flex-direction: row;
+    grid-gap: 10px;
+    flex-wrap: wrap;
+}
+
+.animals img {
+    width: 30%;
+    
+}
